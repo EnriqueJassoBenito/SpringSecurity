@@ -1,0 +1,5 @@
+utez\edu\mx\basicauth8d\security\MainSecurity.class
+utez\edu\mx\basicauth8d\BasicAuth8DApplication.class
+utez\edu\mx\basicauth8d\modules\test\TestController.class
+utez\edu\mx\basicauth8d\security\filters\CustomFilter.class
+utez\edu\mx\basicauth8d\kernel\DBConnection.class
